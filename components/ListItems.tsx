@@ -123,7 +123,7 @@ export default function ListItems() {
                         </div>
                     ))}
                 </div>
-            )} 
+            )}
         </section>
     )
 }
